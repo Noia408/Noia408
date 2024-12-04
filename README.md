@@ -1,6 +1,7 @@
 # Olá! É o Noah Esteves :grin:
 - :point_right: Sou Dev JR.
-<br> 
+<br>
+
 ### Ferramentas e linguagens
 ---
 ![React.JS](https://img.shields.io/badge/-React.Js-087ea4?style=flat-square&logo=react&logoColor=ffffff)
@@ -16,11 +17,14 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 <br>
+
 <div style="display:flex;">
   <a href="https://github.com/Noia408">
   <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noia408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noia408&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
 ### Dá uma olhada aí!
 [<img src='http://img.shields.io/badge/-facebook-4267B2?style=flat-square&logo=facebook&logoColor=ffffff' height='20'>](https://web.facebook.com/noah.esteves.56)
