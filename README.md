@@ -21,6 +21,12 @@
 
 <br>
 
+<div style="display:flex;">
+  <a href="https://github.com/Noia408">
+  <img style="margin:2px;" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noia408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noia408&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ### Dá uma olhada aí!
 [<img src='http://img.shields.io/badge/-facebook-4267B2?style=flat-square&logo=facebook&logoColor=ffffff' height='20'>](https://web.facebook.com/noah.esteves.56)# readme
 # Noia408
